@@ -1,0 +1,6 @@
+__pycache__
+.windsurf
+records/*
+source/__pycache__
+Dockerfile
+README.md
