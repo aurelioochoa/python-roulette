@@ -1,4 +1,5 @@
 __pycache__
 .windsurf
 records/*
+!records/.gitkeep
 source/__pycache__
